@@ -1,0 +1,9 @@
+.banner{
+	height: 3.6rem;
+	width: 100%;
+	background-image:url(../MediaList/images/banner_res.png);
+	background-repeat:no-repeat;
+	background-size: 10rem auto;
+	background-position: center;
+	margin-top:1.2rem;
+}

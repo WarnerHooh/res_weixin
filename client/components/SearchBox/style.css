@@ -1,0 +1,84 @@
+.searchBox{
+	width: 100%;
+	height: 1.2rem;
+	background-image: linear-gradient(to bottom, #fdfdfd, #e2e2e2);
+	text-align: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.searchInput_cntr{
+	position: relative;
+	margin-top: 0.2rem;
+	text-align: left;
+	display: inline-block;
+	height: 0.8rem;
+	width: 9.4rem;
+	border: #cacaca 1px solid;
+	border-radius: 0.2rem;
+	background: #fff;
+}
+
+.searchMenu_cntr{
+	width: 1.9rem;
+	border-top-left-radius: 0.2rem;
+	border-bottom-left-radius: 0.2rem;
+	height: 0.6rem;
+	line-height: 0.6rem;
+	margin-top: 0.1rem;
+	border-right: #cacaca 1px solid;
+}
+.searchMenu{
+	width: 1.6rem;
+	text-align: center;
+	color: #262626;
+	float: left;
+}
+.searchMenu_list{
+	
+}
+.searchInput{
+	position: absolute;
+	left: 2.1rem;
+	right: 1.4rem;
+	top: 0.1rem;
+	height: 0.6rem;
+}
+.searchInput input{
+	border: 0;
+	height: 0.6rem;
+	width: 100%;
+}
+.searchInput_ico{
+	position: absolute;
+	left: 0.1rem;
+	top: 0.12rem;
+	height: 0.4rem;
+	width: 0.4rem;
+	background-image: url(./images/searchInput_ico.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto 0.4rem;
+}
+.searchBtn{
+	height: 0.8rem;
+	width: 1.4rem;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 9;
+	border-top-right-radius: 0.2rem;
+	border-bottom-right-radius: 0.2rem;
+	background: #0077c0;
+	color: #fff;
+	line-height: 0.8rem;
+	text-align: center;
+}
+.searchMenu_ico{
+	font-weight: bold;
+	position: absolute;
+	left: 1.6rem;
+	transform:rotate(90deg);
+	font-family: "宋体";
+	color: #666;
+}
