@@ -8,6 +8,7 @@ import React from 'react'
 
 import App from './containers/App'
 import MediaList from './containers/MediaList'
+import RmsIndex from './containers/RmsIndex'
 import configure from './store'
 
 const store = configure()
@@ -20,6 +21,7 @@ ReactDOM.render(
     <Router history={history}>
       <Route path="/" component={App}>
       	<Route path="MediaList" component={MediaList} />
+      	<Route path="RmsIndex" component={RmsIndex} />
       </Route>
     </Router>
   </Provider>,

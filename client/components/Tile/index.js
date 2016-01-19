@@ -12,7 +12,7 @@ class Tile extends Component{
   	return (
   		<div className={style.tile}>
   			<div className={style.tile_ico} />
-  			<div className={style.tile_title} />
+  			<div className={style.tile_title+' '+bStyle.f16}>标题</div>
   		</div>
   	)
   }
