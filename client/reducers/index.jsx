@@ -6,4 +6,4 @@ import todos from './todos'
 export default combineReducers({
   routing,
   todos
-})
+});
