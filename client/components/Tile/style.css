@@ -1,11 +1,11 @@
 .tile{
 	display: inline-block;
-	width: 3rem;
+	width: 3.08rem;
 	height: 3rem;
-	margin-left: 0.25rem;
+	margin-left: 0.19rem;
 	margin-top:0.1rem;
 	background: #ccc;
-	border-radius: 0.2rem;
+	border-radius: 0.1rem;
 	position: relative;
 }
 .tile_ico{

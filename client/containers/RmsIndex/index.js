@@ -13,7 +13,7 @@ class RmsIndex extends Component {
     	<div>
 	    	<SearchBox />
 	      <div className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
-	      <Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
+	      <Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
       </div>
     )
   }

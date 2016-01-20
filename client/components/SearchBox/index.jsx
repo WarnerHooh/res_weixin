@@ -20,7 +20,7 @@ class SearchBox extends Component{
 		    	</div>
 		    	<div className={style.searchInput}>
 		    		<div className={style.searchInput_ico}></div>
-	    			<input type='text' className={bStyle.f14} />
+	    			<input type='text' ref='searchInput' className={bStyle.f14} onFocus={(event)=>event.target.style.zIndex=2} onBlur={(event)=>{if(event.target.value.length==0)event.target.style.zIndex=1}}/>
 	    		</div>
 	    		<ipnut type="button" className={style.searchBtn+' '+bStyle.f14}>搜索</ipnut>
 	    	</div>

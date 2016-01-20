@@ -6,6 +6,7 @@
 	position: fixed;
 	top: 0;
 	left: 0;
+	z-index: 99;
 }
 .searchInput_cntr{
 	position: relative;
@@ -48,8 +49,11 @@
 	border: 0;
 	height: 0.6rem;
 	width: 100%;
+	position: relative;
+	z-index: 1;
 }
 .searchInput_ico{
+	z-index: 2;
 	position: absolute;
 	left: 0.1rem;
 	top: 0.12rem;
