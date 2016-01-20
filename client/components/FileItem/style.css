@@ -1,0 +1,9 @@
+.fileItem{
+	height: 2.0rem;
+	padding-top: 0.2rem;
+	width: 10rem;
+	border-bottom:#dedede 1px solid;
+}
+.fileItem_ico{
+	margin-left: 0.3rem;
+}

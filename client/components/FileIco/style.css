@@ -1,0 +1,12 @@
+.FileIco{
+	height: 1.6rem;
+	width: 1.6rem;
+}
+.Fileico_ico{
+	height: 1.6rem;
+	width: 1.6rem;
+	background-image: url(./images/icon_doc.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: auto 1.6rem;
+}
