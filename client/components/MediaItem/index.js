@@ -13,9 +13,12 @@ class MediaItem extends Component{
   	return (
   		<div className={style.MediaItem}>
   			<div className={style.MediaItem_thumbCntr}>
+          <img />
   				<div className={style.MediaItem_thumb}></div>
+          <div className={style.MediaItem_ico}></div>
+          <span className={style.MediaItem_time+" "+bStyle.f14}>90:30</span>
   			</div>
-  			<div className={style.MediaItem_title+' '+bStyle.f16}>标题</div>
+  			<div className={style.MediaItem_title}>标题</div>
   		</div>
   	)
   }
