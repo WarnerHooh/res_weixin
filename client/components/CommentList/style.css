@@ -1,0 +1,13 @@
+.CommentList{
+
+}
+.CommentListTitle{
+	margin-left: 0.39rem;
+	color: #3b3b3b;
+}
+.CommentListCount{
+	color: #969696;
+}
+.CommentListList li{
+	border-bottom: #dadada 1px solid;
+}

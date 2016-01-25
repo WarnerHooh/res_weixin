@@ -1,0 +1,10 @@
+.StarRateInline,.StarRateInline_stars{
+	width: 1.2rem;
+	height: 0.2rem;
+	background: url(./images/StarRateInline.png) top no-repeat;
+	background-size: 1.2rem;
+}
+.StarRateInline_stars{
+	background-position:0rem -0.21rem;
+	width: 0.99rem;
+}

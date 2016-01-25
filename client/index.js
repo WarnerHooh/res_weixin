@@ -10,6 +10,8 @@ import App from './containers/App'
 import MediaList from './containers/MediaList'
 import RmsIndex from './containers/RmsIndex'
 import ResList from './containers/ResList'
+import CommentPage from './containers/CommentPage'
+
 import configure from './store'
 
 const store = configure()
@@ -24,6 +26,7 @@ ReactDOM.render(
       	<Route path="MediaList" component={MediaList} />
       	<Route path="RmsIndex" component={RmsIndex} />
       	<Route path="ResList" component={ResList} />
+        <Route path="CommentPage" component={CommentPage} />
       </Route>
     </Router>
   </Provider>,

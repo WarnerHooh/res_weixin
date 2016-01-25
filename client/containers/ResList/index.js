@@ -12,6 +12,14 @@ class ResList extends Component {
 	    	<SearchBox />
         <div style={{marginTop:'1.2rem'}}>
           <FileItem />
+          <FileItem />
+          <FileItem />
+          <FileItem />
+          <FileItem />
+          <FileItem />
+          <FileItem />
+          <FileItem />
+          <FileItem />
         </div>
           
       </div>
