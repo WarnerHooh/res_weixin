@@ -1,9 +1,10 @@
 .CommentList{
-
+	margin-top:0.2rem;
 }
 .CommentListTitle{
 	margin-left: 0.39rem;
 	color: #3b3b3b;
+	font-weight: bold;
 }
 .CommentListCount{
 	color: #969696;

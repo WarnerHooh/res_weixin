@@ -1,0 +1,11 @@
+.PushMemberList{
+	padding-top:1.2rem;
+}
+.PushMemberList_tabBtn{
+	text-align: left;
+	padding: 0.2rem;
+	border-bottom: #dedede 1px solid;
+}
+.PushMemberList_content{
+	padding: 0.2rem;
+}

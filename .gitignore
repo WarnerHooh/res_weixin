@@ -3,5 +3,6 @@ node_modules
 static
 .module-cache
 *.log*
+*.mp4*
 
 node_modules/*

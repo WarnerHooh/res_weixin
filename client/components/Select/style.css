@@ -1,0 +1,11 @@
+.Select{
+	min-height: 0.8rem;
+	width: 4rem;
+	display: inline-block;
+}
+.Select select{
+	width: 100%;
+	min-height: 0.8rem;
+	background: none;
+	border-radius: 0.1rem;
+}

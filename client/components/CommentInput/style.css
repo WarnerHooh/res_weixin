@@ -18,3 +18,8 @@
 .CommentInputBottom{
 	text-align: center;
 }
+.CommentInputTitle{
+	display: inline-block;
+	margin-left: 0.2rem;
+	margin-bottom: 0.2rem;
+}

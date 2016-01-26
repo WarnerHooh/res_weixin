@@ -11,6 +11,8 @@ import MediaList from './containers/MediaList'
 import RmsIndex from './containers/RmsIndex'
 import ResList from './containers/ResList'
 import CommentPage from './containers/CommentPage'
+import VedioScan from './containers/VedioScan'
+import PushList from './containers/PushList'
 
 import configure from './store'
 
@@ -26,7 +28,9 @@ ReactDOM.render(
       	<Route path="MediaList" component={MediaList} />
       	<Route path="RmsIndex" component={RmsIndex} />
       	<Route path="ResList" component={ResList} />
+        <Route path="VedioScan" component={VedioScan} />
         <Route path="CommentPage" component={CommentPage} />
+        <Route path="PushList" component={PushList} />
       </Route>
     </Router>
   </Provider>,
