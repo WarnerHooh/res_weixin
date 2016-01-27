@@ -31,3 +31,14 @@ body{
 [data-dpr="3"] .f18 {
     font-size: 54px;
 }
+
+.f24{
+    font-size: 24px;
+}
+[data-dpr="2"] .f24 {
+    font-size: 48px;
+}
+
+[data-dpr="3"] .f24 {
+    font-size: 72px;
+}

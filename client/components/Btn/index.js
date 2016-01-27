@@ -9,7 +9,7 @@ class Btn extends Component{
 
   render(){
   	return(
-  		<button className={style.Btn+' '+bStyle.f16} style={this.props.css}>发布评论</button>
+  		<button className={style.Btn+' '+bStyle.f18} style={this.props.css}>{this.props.title}</button>
   	)
   }
 }

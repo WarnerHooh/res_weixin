@@ -1,0 +1,37 @@
+.TopicList_banner{
+	margin-top: 1.2rem;
+	width: 10rem;
+	height: 3.6rem;
+	background-repeat:no-repeat;
+	background-size: 10rem auto;
+	background-position: center;
+}
+.TopicList_list li{
+	height: 3rem;
+	border-bottom:#dedede 1px solid;
+	box-sizing:border-box;
+	padding: 0.3rem;
+}
+.TopicList_cover{
+	float: left;
+	height: 2.4rem;
+	width: 3.2rem;
+}
+.TopicList_cover img{
+	height: 100%;
+	width: 100%;
+}
+.TopicList_info{
+	float: left;
+	width: 5.9rem;
+	margin-left: 0.3rem;
+}
+.TopicList_title{
+	font-weight: bold;
+	color: #2e2d2d;
+}
+.TopicList_infoCont{
+	color: #959595;
+	line-height: 0.5rem;
+	margin-top: 0.2rem;
+}

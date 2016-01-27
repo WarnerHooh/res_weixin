@@ -13,6 +13,8 @@ import ResList from './containers/ResList'
 import CommentPage from './containers/CommentPage'
 import VedioScan from './containers/VedioScan'
 import PushList from './containers/PushList'
+import TeacherList from './containers/TeacherList'
+import TopicList from './containers/TopicList'
 
 import configure from './store'
 
@@ -31,6 +33,8 @@ ReactDOM.render(
         <Route path="VedioScan" component={VedioScan} />
         <Route path="CommentPage" component={CommentPage} />
         <Route path="PushList" component={PushList} />
+        <Route path="TeacherList" component={TeacherList} />
+        <Route path="TopicList" component={TopicList} />
       </Route>
     </Router>
   </Provider>,
