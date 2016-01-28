@@ -15,6 +15,7 @@ import VedioScan from './containers/VedioScan'
 import PushList from './containers/PushList'
 import TeacherList from './containers/TeacherList'
 import TopicList from './containers/TopicList'
+import PersonalPage from './containers/PersonalPage'
 
 import configure from './store'
 
@@ -35,6 +36,7 @@ ReactDOM.render(
         <Route path="PushList" component={PushList} />
         <Route path="TeacherList" component={TeacherList} />
         <Route path="TopicList" component={TopicList} />
+        <Route path="PersonalPage" component={PersonalPage} />
       </Route>
     </Router>
   </Provider>,

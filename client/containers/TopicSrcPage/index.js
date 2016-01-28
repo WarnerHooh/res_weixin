@@ -1,13 +1,9 @@
 import React, { Component, PropTypes } from 'react'
 import style from './style.css'
+import bStyle from '../../bundle/base.css'
 
-//导入组件
-import SearchBox from '../../components/SearchBox'
-import FileItem from '../../components/FileItem'
- 
-class ResList extends Component {
+class TopicSrcPage extends Component {
   render() {
-    console.log(this.props.params);
     return (
     	<div>
 	    	<SearchBox />
@@ -28,5 +24,4 @@ class ResList extends Component {
   }
 }
 
-
-export default ResList
+export default TopicSrcPage

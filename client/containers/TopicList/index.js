@@ -23,6 +23,24 @@ class TopicList extends Component {
               <p className={style.TopicList_infoCont}>专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介...  [2015-12-03]</p>
             </div>
           </li>
+
+          <li>
+            <div className={style.TopicList_cover}><img src={coverImg}/></div>
+            <div className={style.TopicList_info}>
+              <h2 className={style.TopicList_title+' '+bStyle.f18}>2015机器人大赛</h2>
+              <p className={style.TopicList_infoCont}>专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介...  [2015-12-03]</p>
+            </div>
+          </li>
+
+          <li>
+            <div className={style.TopicList_cover}><img src={coverImg}/></div>
+            <div className={style.TopicList_info}>
+              <h2 className={style.TopicList_title+' '+bStyle.f18}>2015机器人大赛</h2>
+              <p className={style.TopicList_infoCont}>专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介专题简介...  [2015-12-03]</p>
+            </div>
+          </li>
+
+    
         </ul>
       </div>
     )

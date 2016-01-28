@@ -9,6 +9,7 @@ import style from './style.css'
 class App extends Component {
   render() {
     const { todos, actions, children } = this.props
+    // children.todos = todos
     return (
       <div className={style.normal}>
         {children}
