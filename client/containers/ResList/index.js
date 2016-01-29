@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react'
+import { connect } from 'react-redux'
 import style from './style.css'
 
 //导入组件
@@ -27,6 +28,13 @@ class ResList extends Component {
     )
   }
 }
+function mapStateToProps(state) {
+  return {
+    todos: state.todos,
+    params: state.params
+  }
+}
 
-
-export default ResList
+export default connect(
+  mapStateToProps
+)(ResList)

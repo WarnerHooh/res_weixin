@@ -2,17 +2,27 @@
 import React, { Component, PropTypes } from 'react'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
+import ReactCSSTransitionGroup from 'react-addons-css-transition-group'
 import * as TodoActions from '../../actions/todos'
 import style from './style.css'
 
 
+
 class App extends Component {
   render() {
-    const { todos, actions, children } = this.props
-    // children.todos = todos
+    const { todos, actions, children, location } = this.props
+    const { pathname } = location 
+    const key = pathname.split('/')[1] || 'root'
+
     return (
       <div className={style.normal}>
-        {children}
+        <ReactCSSTransitionGroup
+          component="div" transitionName="swap"
+          transitionEnterTimeout={500} transitionLeaveTimeout={300}
+        >
+          {React.cloneElement(children || <div />,{key:key})}
+        </ReactCSSTransitionGroup>
+        
       </div>
     )
   }

@@ -3,6 +3,7 @@ import React, { Component, PropTypes } from 'react'
 import style from './style.css'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
+import { browserHistory, Router, Route, Link } from 'react-router'
 import * as TodoActions from '../../actions/todos'
 import { routeActions } from 'redux-simple-router'
 
@@ -17,11 +18,13 @@ class RmsIndex extends Component {
 
   render() {
   	var Isrc = require('./images/banner_res.png');
+    const val = 'aaa'
     return (
     	<div>
 	    	<SearchBox />
-	      <div  onClick={()=>this.props.history.push('ResList')}  className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
-	      <Tile/><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
+	      <div  onClick={()=>this.props.history.push('ResList',{id:'aa'})}  className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
+	      <Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
+        <Link to={"ResList"} params={{id: 1}}>{val}</Link>
       </div>
     )
   }

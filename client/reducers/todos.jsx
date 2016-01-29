@@ -47,8 +47,6 @@ export default handleActions({
   },
 
   'clear complete' (state, action) {
-    console.log(state);
-    console.log(action);
     return state.filter(todo => todo.completed === false)
   }
 }, initialState)

@@ -1,0 +1,37 @@
+.TopicSrcPage_top{
+	height: 3rem;
+	background:#262626;
+	color:#fff;
+	position: relative;
+	padding-top: 0.2rem;
+}
+.TopicSrcPage_title{
+	width: 10rem;
+	text-align: center;
+	line-height: 150%;
+}
+.TopicSrcPage_top p{
+	line-height: 150%;
+	text-indent: 2em;
+	padding:0 0.2rem;
+	color: #959595;
+}
+.TopicSrcPage_Btn1,.TopicSrcPage_Btn2{
+	position: absolute;
+	right: 0;
+	bottom: 0.2rem;
+	text-indent: 0.5rem;
+	background-size: 0.45rem;
+	background-repeat:no-repeat;
+}
+.TopicSrcPage_Btn1{
+	right:2.5rem;
+	background-image: url(./images/topicIco_1.png);
+}
+.TopicSrcPage_Btn2{
+	right: 0.2rem;
+	background-image: url(./images/topicIco_2.png);
+}
+.TopicSrcPage_fileList{
+	clear: both;
+}

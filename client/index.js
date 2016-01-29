@@ -16,6 +16,7 @@ import PushList from './containers/PushList'
 import TeacherList from './containers/TeacherList'
 import TopicList from './containers/TopicList'
 import PersonalPage from './containers/PersonalPage'
+import TopicSrcPage from './containers/TopicSrcPage'
 
 import configure from './store'
 
@@ -30,12 +31,13 @@ ReactDOM.render(
       <Route path="/" component={App}>
       	<Route path="MediaList" component={MediaList} />
       	<Route path="RmsIndex" component={RmsIndex} />
-      	<Route path="ResList" component={ResList} />
+      	<Route path="ResList/:id?" component={ResList} />
         <Route path="VedioScan" component={VedioScan} />
         <Route path="CommentPage" component={CommentPage} />
         <Route path="PushList" component={PushList} />
         <Route path="TeacherList" component={TeacherList} />
         <Route path="TopicList" component={TopicList} />
+        <Route path="TopicSrcPage" component={TopicSrcPage} />
         <Route path="PersonalPage" component={PersonalPage} />
       </Route>
     </Router>

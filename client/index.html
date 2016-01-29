@@ -9,9 +9,38 @@
       lib.flexible.makeGridMode('640-12');
     </script>
     <link rel="stylesheet" href="./bundle/flexible.css"/>
+    <style type="text/css">
+.swap-enter {
+  position: absolute;
+  top: 0rem;
+  opacity: 0.01;
+  transform: translateX(10rem);
+  transition: all .5s ease;
+}
+
+.swap-enter.swap-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.swap-leave {
+  position: absolute;
+  top: 0rem;
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.3s ease;
+}
+
+.swap-leave.swap-leave-active {
+  opacity: 0;
+  transform: translateX(-10em);
+}
+
+
+</style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root" style="overflow-x:hidden;"></div>
     <script src="./vendor.bundle.js"></script>
     <script src="./bundle.js"></script>
   </body>
