@@ -5,13 +5,13 @@ import style from './style.css'
 import PushMemberList from '../../components/PushMemberList'
  
 class PushList extends Component {
-  render() {
-    return (
-    	<div>
-        <PushMemberList />
-      </div>
-    )
-  }
+	render() {
+		return (
+			<div>
+				<PushMemberList />
+			</div>
+		)
+	}
 }
 
 export default PushList

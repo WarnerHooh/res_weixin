@@ -22,8 +22,7 @@ class ResList extends Component {
           <FileItem />
           <FileItem />
           <FileItem />
-        </div>
-          
+        </div>  
       </div>
     )
   }

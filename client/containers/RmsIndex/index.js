@@ -22,7 +22,7 @@ class RmsIndex extends Component {
     return (
     	<div>
 	    	<SearchBox />
-	      <div  onClick={()=>this.props.history.push('ResList',{id:'aa'})}  className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
+	      <div  onClick={()=>this.props.history.push('/ResList/11')}  className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
 	      <Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
         <Link to={"ResList"} params={{id: 1}}>{val}</Link>
       </div>

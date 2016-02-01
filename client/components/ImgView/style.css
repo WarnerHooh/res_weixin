@@ -1,0 +1,25 @@
+.ImgView{
+	width: 10rem;
+	position: absolute;
+	top: 0;
+	bottom: 1.2rem;
+
+}
+.ImgView ul{
+	height: 100%;
+	width: 100%;
+}
+.ImgView_list{
+	position: relative;
+	height: 100%;
+	width: 100%;
+	background: #000;
+}
+.ImgView_list img{
+	max-height: 100%;
+	max-width:  100%;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+}
