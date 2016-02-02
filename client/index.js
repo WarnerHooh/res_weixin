@@ -18,6 +18,7 @@ import TopicList from './containers/TopicList'
 import PersonalPage from './containers/PersonalPage'
 import TopicSrcPage from './containers/TopicSrcPage'
 import ImgPreview from './containers/ImgPreview'
+import UpLoad from './containers/UpLoad'
 
 import configure from './store'
 
@@ -41,6 +42,7 @@ ReactDOM.render(
         <Route path="TopicSrcPage" component={TopicSrcPage} />
         <Route path="PersonalPage" component={PersonalPage} />
         <Route path="ImgPreview" component={ImgPreview} />
+        <Route path="UpLoad" component={UpLoad} />
       </Route>
     </Router>
   </Provider>,

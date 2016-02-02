@@ -1,0 +1,28 @@
+.preView_list{
+	width: 10rem;
+	padding-top: 0.05rem;
+}
+.thumbImg{
+	display: inline-block;
+	margin-left: 0.05rem;
+	background: #ccc;
+	height: 3rem;
+	width: 3.27rem;
+}
+.fileInfo{
+	width: 9.6rem;
+	padding:0 0.2rem;
+	line-height: 1.5rem;
+}
+.fileCount{
+	color: #f05510;
+}
+.fileName{
+	height: 0.8rem;
+	border-radius: 0.1rem;
+	width: 100%;
+	position: relative;
+	top: -0.6rem;
+	border:#ccc 1px solid;
+	text-indent: 0.2rem;
+}
