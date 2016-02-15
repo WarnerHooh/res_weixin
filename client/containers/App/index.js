@@ -22,7 +22,6 @@ class App extends Component {
         >
           {React.cloneElement(children || <div />,{key:key})}
         </ReactCSSTransitionGroup>
-        
       </div>
     )
   }

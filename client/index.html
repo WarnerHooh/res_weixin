@@ -14,12 +14,15 @@
   position: absolute;
   top: 0rem;
   opacity: 0.01;
+  -webkit-transform: translateX(10rem);
+  -webkit-transition: all .5s ease;
   transform: translateX(10rem);
   transition: all .5s ease;
 }
 
 .swap-enter.swap-enter-active {
   opacity: 1;
+  -webkit-transform: translateX(0);
   transform: translateX(0);
 }
 
@@ -27,12 +30,15 @@
   position: absolute;
   top: 0rem;
   opacity: 1;
+  -webkit-transform: translateX(0);
+  -webkit-transition: all 0.3s ease;
   transform: translateX(0);
   transition: all 0.3s ease;
 }
 
 .swap-leave.swap-leave-active {
   opacity: 0;
+  -webkit-transform: translateX(-10em);
   transform: translateX(-10em);
 }
 

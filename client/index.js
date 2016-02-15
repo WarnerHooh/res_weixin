@@ -19,6 +19,8 @@ import PersonalPage from './containers/PersonalPage'
 import TopicSrcPage from './containers/TopicSrcPage'
 import ImgPreview from './containers/ImgPreview'
 import UpLoad from './containers/UpLoad'
+import DocPreview from './containers/DocPreview'
+import MyCloud from './containers/MyCloud'
 
 import configure from './store'
 
@@ -43,6 +45,8 @@ ReactDOM.render(
         <Route path="PersonalPage" component={PersonalPage} />
         <Route path="ImgPreview" component={ImgPreview} />
         <Route path="UpLoad" component={UpLoad} />
+        <Route path="DocPreview" component={DocPreview} />
+        <Route path="MyCloud" component={MyCloud} />
       </Route>
     </Router>
   </Provider>,

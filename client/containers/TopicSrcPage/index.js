@@ -10,10 +10,12 @@ class TopicSrcPage extends Component {
     	<div>
         <div className={style.TopicSrcPage_top}>
           <h1 className={style.TopicSrcPage_title+' '+bStyle.f24}>2015机器人大赛</h1>
-          <p>专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍</p>
+          <p>专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍专题介绍</p>
+          <div className={style.TopicSrcPage_btnCntr}>
+            <div className={style.TopicSrcPage_Btn2+' '+bStyle.f14}>推送专题</div>
+            <div className={style.TopicSrcPage_Btn1+' '+bStyle.f14}>收藏专题</div>
+          </div>
           
-          <div className={style.TopicSrcPage_Btn2+' '+bStyle.f14}>推送专题</div>
-          <div className={style.TopicSrcPage_Btn1+' '+bStyle.f14}>收藏专题</div>
         </div>
         <div className={style.TopicSrcPage_vedioList}>
           <MediaItem /><MediaItem />
