@@ -9,18 +9,18 @@ import BottomBar from '../../components/BottomBar'
 
 class MyCloud extends Component {
 	render() {
-
+	
 		return (
-			<div>
+			<div className={style.MyCloud}>
 				<div className={style.topbar}>
 					<BreadNav />
 				</div>
 				<div className={style.fileList}>
-          <FileItemCloud />
-          <FileItemCloud />
-          <FileItemCloud />
-        </div>
-        <BottomBar />
+					<FileItemCloud />
+					<FileItemCloud />
+					<FileItemCloud />
+				</div>
+				<BottomBar />
 			</div>
 		)
 	}

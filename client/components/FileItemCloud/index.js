@@ -12,6 +12,15 @@ class FileItemCloud extends Component{
 	}
 
 	render(){
+		let time = (
+			<span className={style.time}>
+				<span className={style.fileItem_info_item}>2015-11-01</span>
+				<span className={style.fileItem_info_item}>16:37</span>
+			</span>
+		)
+		if(this.props.hideTime){
+			time = ''
+		}
 		return (
 			<div className={style.fileItemCloud}>
 				<div className={style.fileItem_ico}>
@@ -21,8 +30,7 @@ class FileItemCloud extends Component{
 				<div className={style.fileItem_info}>
 					<span className={style.fileItem_title+' '+bStyle.f16}>人教版小学数学五年级下册教学</span>
 					<span className={style.fileItem_info_item}>953KB</span>
-					<span className={style.fileItem_info_item}>2015-11-01</span>
-					<span className={style.fileItem_info_item}>16:37</span>
+					{time}
 				</div>
 				<div className={style.checkbox}>
 					<Checkbox />

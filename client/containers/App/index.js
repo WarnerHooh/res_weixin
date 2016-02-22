@@ -18,7 +18,7 @@ class App extends Component {
       <div className={style.normal}>
         <ReactCSSTransitionGroup
           component="div" transitionName="swap"
-          transitionEnterTimeout={500} transitionLeaveTimeout={300}
+          transitionEnterTimeout={500} transitionLeaveTimeout={500}
         >
           {React.cloneElement(children || <div />,{key:key})}
         </ReactCSSTransitionGroup>

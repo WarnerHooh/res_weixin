@@ -12,31 +12,37 @@ import SearchBox from '../../components/SearchBox'
 import Tile from '../../components/Tile'
  
 class RmsIndex extends Component {
-  constructor(props, context) {
-    super(props, context)
-  }
+	constructor(props, context) {
+		super(props, context)
+	}
 
-  render() {
-  	var Isrc = require('./images/banner_res.png');
-    const val = 'aaa'
-    return (
-    	<div>
-	    	<SearchBox />
-	      <div  onClick={()=>this.props.history.push('/ResList/11')}  className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
-	      <Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
-        <Link to={"ResList"} params={{id: 1}}>{val}</Link>
-      </div>
-    )
-  }
+	render() {
+		const { todos, actions, children } = this.props
+		var Isrc = require('./images/banner_res.png');
+		return (
+			<div>
+				<SearchBox />
+				<div onClick={()=>{this.props.history.pushState({aaa:111},'ResList/11');actions.addTodo()}}	className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
+				<Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
+			</div>
+		)
+	}
 }
 
 function mapStateToProps(state) {
+	return {
+		todos: state.todos
+	}
+}
+
+function mapDispatchToProps(dispatch) {
   return {
-    todos: state.todos
+    actions: bindActionCreators(TodoActions, dispatch)
   }
 }
 
 
 export default connect(
-  mapStateToProps
+	mapStateToProps,
+	mapDispatchToProps
 )(RmsIndex)

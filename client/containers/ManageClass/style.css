@@ -1,0 +1,10 @@
+.ManageClass{
+	padding-top:1rem;
+}
+.title{
+	height: 1rem;
+	line-height: 1rem;
+	background: #4e4e4e;
+	text-indent: 0.3rem;
+	color: #fff;
+}

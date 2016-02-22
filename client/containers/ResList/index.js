@@ -7,33 +7,33 @@ import SearchBox from '../../components/SearchBox'
 import FileItem from '../../components/FileItem'
  
 class ResList extends Component {
-  render() {
-    console.log(this.props.params);
-    return (
-    	<div>
-	    	<SearchBox />
-        <div style={{marginTop:'1.2rem'}}>
-          <FileItem />
-          <FileItem />
-          <FileItem />
-          <FileItem />
-          <FileItem />
-          <FileItem />
-          <FileItem />
-          <FileItem />
-          <FileItem />
-        </div>  
-      </div>
-    )
-  }
+	render() {
+		console.log(this.props.params);
+		return (
+			<div>
+				<SearchBox />
+				<div style={{marginTop:'1.2rem'}}>
+					<FileItem />
+					<FileItem />
+					<FileItem />
+					<FileItem />
+					<FileItem />
+					<FileItem />
+					<FileItem />
+					<FileItem />
+					<FileItem />
+				</div>	
+			</div>
+		)
+	}
 }
 function mapStateToProps(state) {
-  return {
-    todos: state.todos,
-    params: state.params
-  }
+	return {
+		todos: state.todos,
+		params: state.params
+	}
 }
 
 export default connect(
-  mapStateToProps
+	mapStateToProps
 )(ResList)

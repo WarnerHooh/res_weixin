@@ -2,7 +2,7 @@
 import { Provider } from 'react-redux'
 import { Router, Route } from 'react-router'
 import { createHistory } from 'history'
-import { syncReduxAndRouter } from 'redux-simple-router'
+import { syncHistory } from 'react-router-redux'
 import ReactDOM from 'react-dom'
 import React from 'react'
 
@@ -21,34 +21,40 @@ import ImgPreview from './containers/ImgPreview'
 import UpLoad from './containers/UpLoad'
 import DocPreview from './containers/DocPreview'
 import MyCloud from './containers/MyCloud'
+import PushToMePage from './containers/PushToMePage'
+import ManageClass from './containers/ManageClass'
+import ClassMembers from './containers/ClassMembers'
 
 import configure from './store'
 
 const store = configure()
 const history = createHistory()
 
-syncReduxAndRouter(history, store)
+syncHistory(history, store)
 
 ReactDOM.render(
-  <Provider store={store}>
-    <Router history={history}>
-      <Route path="/" component={App}>
-      	<Route path="MediaList" component={MediaList} />
-      	<Route path="RmsIndex" component={RmsIndex} />
-      	<Route path="ResList(/:name)" component={ResList} />
-        <Route path="VedioScan" component={VedioScan} />
-        <Route path="CommentPage" component={CommentPage} />
-        <Route path="PushList" component={PushList} />
-        <Route path="TeacherList" component={TeacherList} />
-        <Route path="TopicList" component={TopicList} />
-        <Route path="TopicSrcPage" component={TopicSrcPage} />
-        <Route path="PersonalPage" component={PersonalPage} />
-        <Route path="ImgPreview" component={ImgPreview} />
-        <Route path="UpLoad" component={UpLoad} />
-        <Route path="DocPreview" component={DocPreview} />
-        <Route path="MyCloud" component={MyCloud} />
-      </Route>
-    </Router>
-  </Provider>,
-  document.getElementById('root')
+	<Provider store={store}>
+		<Router history={history}>
+			<Route path="/" component={App}>
+				<Route path="MediaList" component={MediaList} />
+				<Route path="RmsIndex" component={RmsIndex} />
+				<Route path="ResList(/:name)" component={ResList} />
+				<Route path="VedioScan" component={VedioScan} />
+				<Route path="CommentPage" component={CommentPage} />
+				<Route path="PushList" component={PushList} />
+				<Route path="TeacherList" component={TeacherList} />
+				<Route path="TopicList" component={TopicList} />
+				<Route path="TopicSrcPage" component={TopicSrcPage} />
+				<Route path="PersonalPage" component={PersonalPage} />
+				<Route path="ImgPreview" component={ImgPreview} />
+				<Route path="UpLoad" component={UpLoad} />
+				<Route path="DocPreview" component={DocPreview} />
+				<Route path="MyCloud" component={MyCloud} />
+				<Route path="PushToMePage" component={PushToMePage} />
+				<Route path="ManageClass" component={ManageClass} />
+				<Route path="ClassMembers" component={ClassMembers} />
+			</Route>
+		</Router>
+	</Provider>,
+	document.getElementById('root')
 )
