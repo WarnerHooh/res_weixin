@@ -1,8 +1,8 @@
 
 import { Provider } from 'react-redux'
-import { Router, Route } from 'react-router'
+import { Router, Route, browserHistory } from 'react-router'
 import { createHistory } from 'history'
-import { syncHistory } from 'react-router-redux'
+import { syncHistoryWithStore } from 'react-router-redux'
 import ReactDOM from 'react-dom'
 import React from 'react'
 
@@ -28,9 +28,7 @@ import ClassMembers from './containers/ClassMembers'
 import configure from './store'
 
 const store = configure()
-const history = createHistory()
-
-syncHistory(history, store)
+const history = syncHistoryWithStore(browserHistory, store)
 
 ReactDOM.render(
 	<Provider store={store}>

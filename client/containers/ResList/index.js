@@ -11,16 +11,16 @@ class ResList extends Component {
 		return (
 			<div>
 				<SearchBox />
-				<div style={{marginTop:'1.2rem'}}>
-					<FileItem />
-					<FileItem />
-					<FileItem />
-					<FileItem />
-					<FileItem />
-					<FileItem />
-					<FileItem />
-					<FileItem />
-					<FileItem />
+				<div className={style.fileList}>
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
+					<FileItem showStar={true} />
 				</div>	
 			</div>
 		)

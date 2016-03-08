@@ -8,15 +8,16 @@ import StarRateInline from '../StarRateInline'
 class FileItem extends Component{
 
 	constructor(props, context) {
-    super(props, context)
-  }
+		super(props, context)
+	}
 
 	render(){
 		return (
 			<div className={style.fileItem}>
 				<div className={style.fileItem_ico}>
 					<FileIco />
-					<div className={style.starRate}><StarRateInline /></div>
+					{this.props.showStar && <div className={style.starRate}><StarRateInline /></div>}
+					
 				</div>
 				<div className={style.fileItem_info}>
 					<span className={style.fileItem_title+' '+bStyle.f18}>人教版小学数学五年级下册教学</span>

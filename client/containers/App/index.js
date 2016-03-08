@@ -10,7 +10,7 @@ import style from './style.css'
 
 class App extends Component {
   render() {
-    const { todos, actions, children, location, dispatch } = this.props
+    const { actions, children, location, dispatch } = this.props
     const { pathname } = location 
     const key = pathname.split('/')[1] || 'root'
     return (
@@ -27,13 +27,13 @@ class App extends Component {
 }
 
 App.propTypes = {
-  todos: PropTypes.array.isRequired,
+  //todos: PropTypes.array.isRequired,
   actions: PropTypes.object.isRequired
 }
 
 function mapStateToProps(state) {
   return {
-    todos: state.todos
+    appData: state.appData
   }
 }
 
