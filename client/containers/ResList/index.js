@@ -8,7 +8,6 @@ import FileItem from '../../components/FileItem'
  
 class ResList extends Component {
 	render() {
-		console.log(this.props.params);
 		return (
 			<div>
 				<SearchBox />

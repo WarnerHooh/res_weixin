@@ -10,10 +10,9 @@ import style from './style.css'
 
 class App extends Component {
   render() {
-    const { todos, actions, children, location } = this.props
+    const { todos, actions, children, location, dispatch } = this.props
     const { pathname } = location 
     const key = pathname.split('/')[1] || 'root'
-
     return (
       <div className={style.normal}>
         <ReactCSSTransitionGroup

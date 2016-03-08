@@ -10,8 +10,6 @@ const initialState = [{
 export default handleActions({
 	'@@router/UPDATE_LOCATION' (state,action){
 		document.title='ok'
-    console.log('this')
-    console.log(state)
 		return [{
 			id: state.reduce((maxId, todo) => Math.max(todo.id, maxId), -1) + 1,
 			completed: false,
@@ -19,8 +17,6 @@ export default handleActions({
 		}, ...state]
 	},
 	'add todo' (state, action) {
-    console.log('this')
-    console.log(state)
 		return [{
 			id: state.reduce((maxId, todo) => Math.max(todo.id, maxId), -1) + 1,
 			completed: false,

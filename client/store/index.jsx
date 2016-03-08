@@ -8,7 +8,8 @@ export default function configure(initialState) {
 		? window.devToolsExtension()(createStore)
 		: createStore
 
-	const store = create(rootReducer, initialState, applyMiddleware(thunk),)
+	const createStoreWithMiddleware = applyMiddleware(thunk)(create);
+	const store = createStoreWithMiddleware(rootReducer, initialState, )
 
 	if (module.hot) {
 		module.hot.accept('../reducers', () => {

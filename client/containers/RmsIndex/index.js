@@ -12,17 +12,13 @@ import SearchBox from '../../components/SearchBox'
 import Tile from '../../components/Tile'
  
 class RmsIndex extends Component {
-	constructor(props, context) {
-		super(props, context)
-	}
-
 	render() {
 		const { todos, actions, children } = this.props
 		var Isrc = require('./images/banner_res.png');
 		return (
 			<div>
-				<SearchBox />
-				<div onClick={()=>{this.props.history.pushState({aaa:111},'ResList/11');actions.addTodo()}}	className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
+				<SearchBox placeholder='资源名称' />
+				<div onClick={()=>{actions.testMidWare()}}	className={style.banner} style={{backgroundImage:'url('+Isrc+')'}}></div>
 				<Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile /><Tile />
 			</div>
 		)
