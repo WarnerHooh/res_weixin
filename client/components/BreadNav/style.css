@@ -1,0 +1,19 @@
+.BreadNav{
+	position: fixed;
+	z-index: 99;
+	top: 0;
+	width: 10rem;
+	height: 1rem;
+	background: linear-gradient(top , rgb(253, 253, 253) , rgb(227, 227, 227) 100%);
+	background: -webkit-linear-gradient(top , rgb(253, 253, 253) , rgb(227, 227, 227) 100%);
+	border-bottom:#c6c6c6 1px solid;
+	box-shadow: 0 0 0.1rem 0 #666;
+}
+.BreadNav li{
+	padding-left: 0.3rem;
+	padding-right: 0.4rem;
+	line-height: 1rem;
+	background: url('./images/array.png') top right no-repeat;
+	background-size:auto 1rem;
+	display: inline-block;
+}

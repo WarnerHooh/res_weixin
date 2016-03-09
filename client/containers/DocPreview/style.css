@@ -1,0 +1,11 @@
+.viewerContainer{
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 1.2rem;
+	background:#ccc;
+}
+.pdfIframe{
+	border: 0;
+}

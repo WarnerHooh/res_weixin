@@ -7,6 +7,7 @@
 	top: 0;
 	left: 0;
 	z-index: 99;
+	box-shadow: 0 0 0.1rem 0 #666;
 }
 .searchInput_cntr{
 	position: relative;
@@ -31,13 +32,23 @@
 }
 .searchMenu{
 	width: 1.6rem;
+	height: 0.6rem;
 	text-align: center;
-	color: #262626;
-	float: left;
+	position:relative;
+	z-index: 9;
+	opacity: 0;
+	-webkit-opacity:0;
 }
-.searchMenu_list{
-	
+.searchMenu_val{
+	position: absolute;
+	top: 0.13rem;
+	left: 0;
+	line-height: 0.6rem;
+	width: 1.6rem;
+	text-align: center;
+	z-index: 0;
 }
+
 .searchInput{
 	position: absolute;
 	left: 2.1rem;
@@ -58,11 +69,13 @@
 	left: 0.1rem;
 	top: 0.12rem;
 	height: 0.4rem;
-	width: 0.4rem;
 	background-image: url(./images/searchInput_ico.png);
 	background-repeat: no-repeat;
-	background-position: center;
-	background-size: auto 0.4rem;
+	background-position: left;
+	background-size: 0.35rem;
+	color:#ccc;
+	text-indent: 0.4rem;
+	pointer-events:none;
 }
 .searchBtn{
 	height: 0.8rem;
@@ -81,8 +94,11 @@
 .searchMenu_ico{
 	font-weight: bold;
 	position: absolute;
+	height: 0.2rem;
+	width: 0.2rem;
+	background: url(./images/searchInput_ico2.png) no-repeat;
+	background-size: 0.2rem;
 	left: 1.6rem;
-	transform:rotate(90deg);
-	font-family: "宋体";
+	top:0.35rem;
 	color: #666;
 }

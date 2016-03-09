@@ -6,4 +6,35 @@
 }
 .fileItem_ico{
 	margin-left: 0.3rem;
+<<<<<<< HEAD
+=======
+	width: 1.6rem;
+	height: 100%;
+	float: left;
+}
+.fileItem_info{
+	position: relative;
+	float: left;
+	width: 8rem;
+}
+.fileItem_title{
+
+}
+.fileItem_info_item{
+	position: absolute;
+	right: 0.5rem;
+	top: 1.1rem;
+	color: #959595;
+}
+.fileItem_info_item_1{
+	left: 0;
+}
+.fileItem_info_item_2{
+	right: 0.5rem;
+}
+.starRate{
+	margin: 0 auto;
+	width: 1.18rem;
+	margin-top: 2px;
+>>>>>>> 79338894570426f5ab4745cf4214b5c6870b2916
 }

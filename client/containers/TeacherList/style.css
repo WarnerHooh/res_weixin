@@ -1,0 +1,11 @@
+.TeacherList_banner{
+	margin-top: 1.2rem;
+	width: 10rem;
+	height: 3.6rem;
+	background-repeat:no-repeat;
+	background-size: 10rem auto;
+	background-position: center;
+}
+.TeacherList_list{
+	width: 10rem;
+}

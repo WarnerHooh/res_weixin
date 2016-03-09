@@ -1,0 +1,25 @@
+.ClassMembers{
+	padding-top: 1.2rem;
+}
+.ClassMembers dt{
+	border-bottom:#000 1px dashed;
+	line-height: 1rem;
+	text-indent:0.4rem;
+	margin-bottom: 0.4rem;
+}
+.ClassMembers dd{
+	display: block;
+	margin-left: 0.8rem;
+	margin-top:0.2rem;
+	height: 0.8rem;
+	line-height: 0.8rem;
+}
+.ClassMembers dd img{
+	height: 0.8rem;
+	width: 0.8rem;
+	margin-right: 0.25rem;
+	vertical-align: bottom;
+}
+.child{
+	color: #959595;
+}

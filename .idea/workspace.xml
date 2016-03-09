@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45de872e-0150-4a90-8fd7-a4adc092461a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BottomBar/images/ico_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BottomBar/images/ico_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BottomBar/images/ico_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BottomBar/images/ico_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BreadNav/images/array.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Comment/images/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/GoTop/images/Gotop_ico1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/GoTop/images/Gotop_ico2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/ImgView/images/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/ImgView/images/02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/ImgView/images/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/SearchBox/images/searchInput_ico2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/StarRate/images/starRate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/StarRateInline/images/starRateInline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/TeacherItem/images/avatar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Tile/images/ico_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/ClassMembers/images/avatar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PersonalPage/images/avatar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PersonalPage/images/banner_mySpace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PersonalPage/images/unbindBtn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TeacherList/images/teacherList_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicContent/images/topicIco_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicContent/images/topicIco_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicList/images/topic_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicSrcPage/images/topicIco_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicSrcPage/images/topicIco_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78-RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78ms-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/78ms-RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/83pv-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/90ms-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/90ms-RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/90msp-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/90msp-RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/90pv-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/90pv-RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Add-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Add-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Add-RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Add-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-0.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-1.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-3.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-4.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-5.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-6.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-CNS1-UCS2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-GB1-0.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-GB1-1.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-GB1-2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-GB1-3.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-GB1-4.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-GB1-5.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-GB1-UCS2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-0.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-1.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-3.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-4.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-5.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-6.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Japan1-UCS2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Korea1-0.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Korea1-1.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Korea1-2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Adobe-Korea1-UCS2.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/B5pc-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/B5pc-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/CNS-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/CNS-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/CNS1-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/CNS1-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/CNS2-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/CNS2-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/ETHK-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/ETHK-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/ETen-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/ETen-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/ETenms-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/ETenms-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Ext-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Ext-RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Ext-RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Ext-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GB-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GB-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GB-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GB-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBK-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBK-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBK2K-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBK2K-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBKp-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBKp-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBT-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBT-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBT-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBT-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBTpc-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBTpc-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBpc-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/GBpc-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKdla-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKdla-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKdlb-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKdlb-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKgccs-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKgccs-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKm314-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKm314-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKm471-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKm471-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKscs-B5-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/HKscs-B5-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Hankaku.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Hiragana.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSC-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSC-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSC-Johab-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSC-Johab-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSCms-UHC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSCms-UHC-HW-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSCms-UHC-HW-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSCms-UHC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSCpc-EUC-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/KSCpc-EUC-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Katakana.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/NWP-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/NWP-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/RKSJ-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/RKSJ-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/Roman.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UCS2-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UCS2-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UTF16-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UTF16-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UTF32-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UTF32-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UTF8-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniCNS-UTF8-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UCS2-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UCS2-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UTF16-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UTF16-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UTF32-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UTF32-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UTF8-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniGB-UTF8-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UCS2-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UCS2-HW-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UCS2-HW-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UCS2-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UTF16-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UTF16-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UTF32-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UTF32-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UTF8-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS-UTF8-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS2004-UTF16-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS2004-UTF16-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS2004-UTF32-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS2004-UTF32-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS2004-UTF8-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJIS2004-UTF8-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJISPro-UCS2-HW-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJISPro-UCS2-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJISPro-UTF8-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJISX0213-UTF32-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJISX0213-UTF32-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJISX02132004-UTF32-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniJISX02132004-UTF32-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UCS2-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UCS2-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UTF16-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UTF16-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UTF32-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UTF32-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UTF8-H.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/UniKS-UTF8-V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/V.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/WP-Symbol.bcmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-next-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-next-rtl@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-next@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-previous-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-previous-rtl@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/findbarButton-previous@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/grab.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/grabbing.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/loading-icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/loading-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/loading-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-documentProperties.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-documentProperties@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-firstPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-firstPage@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-handTool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-handTool@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-lastPage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-lastPage@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-rotateCcw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-rotateCcw@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-rotateCw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/secondaryToolbarButton-rotateCw@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/texture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-bookmark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-download@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-menuArrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-menuArrows@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-openFile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-openFile@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageDown-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageDown-rtl@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageDown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageDown@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageUp-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageUp-rtl@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageUp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-pageUp@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-presentationMode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-presentationMode@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-print@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-search@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-secondaryToolbarToggle-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-secondaryToolbarToggle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-secondaryToolbarToggle@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-sidebarToggle-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-sidebarToggle-rtl@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-sidebarToggle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-sidebarToggle@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewAttachments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewAttachments@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewOutline-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewOutline-rtl@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewOutline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewOutline@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewThumbnail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-viewThumbnail@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-zoomIn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-zoomIn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-zoomOut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/toolbarButton-zoomOut@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/bg/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/bn-IN/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/hy-AM/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/kk/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/kn/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/or/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/pa-IN/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/sr/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ta/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/test.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/RmsIndex.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bundle/compatibility.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bundle/pdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bundle/pdf_viewer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bundle/pdf_viewer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BottomBar/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BottomBar/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BreadNav/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/BreadNav/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Btn/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Btn/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Checkbox/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Checkbox/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/ClassItem/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/ClassItem/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Comment/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Comment/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/CommentInput/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/CommentInput/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/CommentList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/CommentList/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/FileItemCloud/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/FileItemCloud/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/GoTop/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/GoTop/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/ImgView/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/ImgView/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Progress/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Progress/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/PushMemberList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/PushMemberList/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/PushToMe/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/PushToMe/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Select/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Select/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/StarRate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/StarRate/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/StarRateInline/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/StarRateInline/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/TeacherItem/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/TeacherItem/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/TileGroup/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/TileGroup/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Video/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/components/Video/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/constants/appcfg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/constants/bottomBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/constants/tiles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/ClassMembers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/ClassMembers/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/CommentPage/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/CommentPage/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/DocPreview/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/DocPreview/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/ImgPreview/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/ImgPreview/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/ManageClass/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/ManageClass/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/MyCloud/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/MyCloud/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PersonalPage/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PersonalPage/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PushList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PushList/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PushToMePage/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/PushToMePage/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TeacherList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TeacherList/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicList/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicSrcPage/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/TopicSrcPage/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/Upload/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/Upload/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/VedioScan/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/containers/VedioScan/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/js/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/cmaps/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/css/viewer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-help.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-insert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-newparagraph.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-noicon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-note.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/images/annotation-paragraph.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/js/compatibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/js/debugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/js/l10n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/js/pdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/js/pdf.worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/js/viewer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ach/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/af/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ak/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/an/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ar/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/as/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ast/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/az/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/be/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/bn-BD/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/br/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/bs/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ca/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/cs/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/csb/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/cy/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/da/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/de/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/el/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/en-GB/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/en-US/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/en-ZA/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/eo/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/es-AR/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/es-CL/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/es-ES/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/es-MX/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/et/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/eu/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/fa/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ff/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/fi/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/fr/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/fy-NL/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ga-IE/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/gd/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/gl/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/gu-IN/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/he/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/hi-IN/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/hr/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/hu/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/id/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/is/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/it/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ja/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ka/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/km/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ko/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ku/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/lg/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/lij/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/locale.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/lt/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/lv/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/mai/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/mk/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ml/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/mn/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/mr/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ms/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/my/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/nb-NO/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/nl/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/nn-NO/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/nso/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/oc/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/pl/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/pt-BR/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/pt-PT/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/rm/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ro/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ru/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/rw/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/sah/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/si/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/sk/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/sl/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/son/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/sq/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/sv-SE/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/sw/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ta-LK/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/te/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/th/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/tl/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/tn/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/tr/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/uk/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/ur/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/vi/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/wo/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/xh/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/zh-CN/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/zh-TW/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/pdf/locale/zu/viewer.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/pdf/viewer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/shu ji cha xun.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/testData/RmsIndex.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/actions/todos.jsx" afterPath="$PROJECT_DIR$/client/actions/todos.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/bundle/base.css" afterPath="$PROJECT_DIR$/client/bundle/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/bundle/flexible.css" afterPath="$PROJECT_DIR$/client/bundle/flexible.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/FileItem/index.js" afterPath="$PROJECT_DIR$/client/components/FileItem/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/FileItem/style.css" afterPath="$PROJECT_DIR$/client/components/FileItem/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/MediaItem/style.css" afterPath="$PROJECT_DIR$/client/components/MediaItem/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/SearchBox/index.jsx" afterPath="$PROJECT_DIR$/client/components/SearchBox/index.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/SearchBox/style.css" afterPath="$PROJECT_DIR$/client/components/SearchBox/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/Tile/index.js" afterPath="$PROJECT_DIR$/client/components/Tile/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/components/Tile/style.css" afterPath="$PROJECT_DIR$/client/components/Tile/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/containers/App/index.js" afterPath="$PROJECT_DIR$/client/containers/App/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/containers/App/style.css" afterPath="$PROJECT_DIR$/client/containers/App/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/containers/ResList/index.js" afterPath="$PROJECT_DIR$/client/containers/ResList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/containers/ResList/style.css" afterPath="$PROJECT_DIR$/client/containers/ResList/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/containers/RmsIndex/index.js" afterPath="$PROJECT_DIR$/client/containers/RmsIndex/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.js" afterPath="$PROJECT_DIR$/client/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/reducers/index.jsx" afterPath="$PROJECT_DIR$/client/reducers/index.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/reducers/todos.jsx" afterPath="$PROJECT_DIR$/client/reducers/todos.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/store/index.jsx" afterPath="$PROJECT_DIR$/client/store/index.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+    </list>
+    <ignored path="res_weixin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="res_weixin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/containers/RmsIndex/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/containers/ResList/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/Tile/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/Tile/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/SearchBox/index.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/components/SearchBox/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39427012">
+              <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/MediaItem/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.416666">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/components/FileItem/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/index.js" />
+        <option value="$PROJECT_DIR$/client/containers/RmsIndex/index.js" />
+        <option value="$PROJECT_DIR$/client/containers/ResList/index.js" />
+        <option value="$PROJECT_DIR$/client/components/Tile/index.js" />
+        <option value="$PROJECT_DIR$/client/components/Tile/style.css" />
+        <option value="$PROJECT_DIR$/client/components/SearchBox/index.jsx" />
+        <option value="$PROJECT_DIR$/client/components/MediaItem/style.css" />
+        <option value="$PROJECT_DIR$/client/components/FileItem/index.js" />
+        <option value="$PROJECT_DIR$/client/components/SearchBox/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="1435" />
+    <option name="height" value="854" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RmsIndex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="containers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ResList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MediaItem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res_weixin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FileItem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45de872e-0150-4a90-8fd7-a4adc092461a" name="Default" comment="" />
+      <created>1457502119591</created>
+      <option name="number" value="Default" />
+      <updated>1457502119591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1435" height="854" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/containers/RmsIndex/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/containers/ResList/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/Tile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/Tile/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/SearchBox/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/MediaItem/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.416666">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/FileItem/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/components/SearchBox/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39427012">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

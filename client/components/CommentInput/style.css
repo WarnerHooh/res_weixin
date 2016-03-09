@@ -1,0 +1,25 @@
+.CommentInput{
+	width: 10rem;
+	border-bottom: #dadada 1px solid;
+	padding: 0.4rem 0;
+	margin-bottom: 0.3rem;
+}
+.CommentInputCont{
+	display: block;
+	width: 9.5rem;
+	height: 2rem;
+	border:#d3d3d3 1px solid;
+	margin: 0 auto;
+	margin-bottom: 0.2rem;
+	border-radius: 0.1rem;
+	padding: 0.1rem;
+	box-sizing:border-box;
+}
+.CommentInputBottom{
+	text-align: center;
+}
+.CommentInputTitle{
+	display: inline-block;
+	margin-left: 0.2rem;
+	margin-bottom: 0.2rem;
+}

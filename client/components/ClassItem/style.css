@@ -1,0 +1,38 @@
+.ClassItem{
+	height: 2.2rem;
+	border-bottom:#dedede 1px solid;
+}
+.class{
+	height: 1.4rem;
+	line-height: 1.4rem;
+}
+.classname{
+	position: relative;
+	top: -0.05rem;
+	left:0.2rem;
+	font-weight: bold;
+}
+.ico{
+	height: 0.4rem;
+	width: 0.4rem;
+	display: inline-block;
+	border-radius: 0.2rem;
+	background: #959595;
+	position: relative;
+	margin-left: 0.6rem;
+}
+.ico div{
+	height: 0.25rem;
+	width: 0.25rem;
+	margin:0.075rem;
+	border-radius:0.2rem;
+	background: #fff; 
+}
+.classinfo{
+	color: #959595;
+	padding-left: 0.7rem;
+}
+.classinfo span{
+	display: inline-block;
+	margin-left: 0.5rem;
+}

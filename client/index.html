@@ -3,16 +3,51 @@
   <head>
     <meta charset="utf-8">
     <meta content="modeName=640-12" name="grid" />
-    <title>Boilerplate</title>
-    <script src="./bundle/flexible.js"></script>
-    <script src="./bundle/makegrid.js">
+    <title>微信门户</title>
+    <script src="http://localhost:3000/bundle/flexible.js"></script>
+    <script src="http://localhost:3000/bundle/makegrid.js">
       lib.flexible.makeGridMode('640-12');
     </script>
-    <link rel="stylesheet" href="./bundle/flexible.css"/>
+    <link rel="stylesheet" href="http://localhost:3000/bundle/flexible.css"/>
+    <style type="text/css">
+.swap-enter {
+  position: absolute;
+  top: 0rem;
+  opacity: 0.01;
+  -webkit-transform: translateX(10rem);
+  -webkit-transition: all .5s ease;
+  transform: translateX(10rem);
+  transition: all .5s ease;
+}
+
+.swap-enter.swap-enter-active {
+  opacity: 1;
+  -webkit-transform: translateX(0);
+  transform: translateX(0);
+}
+
+.swap-leave {
+  position: absolute;
+  top: 0rem;
+  opacity: 1;
+  -webkit-transform: translateX(0);
+  -webkit-transition: all 0.3s ease;
+  transform: translateX(0);
+  transition: all 0.3s ease;
+}
+
+.swap-leave.swap-leave-active {
+  opacity: 0;
+  -webkit-transform: translateX(-10em);
+  transform: translateX(-10em);
+}
+
+
+</style>
   </head>
   <body>
-    <div id="root"></div>
-    <script src="./vendor.bundle.js"></script>
-    <script src="./bundle.js"></script>
+    <div id="root" style="overflow-x:hidden;"></div>
+    <script src="http://localhost:3000/vendor.bundle.js"></script>
+    <script src="http://localhost:3000/bundle.js"></script>
   </body>
 </html>

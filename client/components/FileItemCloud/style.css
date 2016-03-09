@@ -1,0 +1,45 @@
+.fileItemCloud{
+	width: 10rem;
+	height: 1.8rem;
+	padding-top: 0.2rem;
+	padding-left: 0.3rem;
+	border-bottom:#dedede 1px solid;
+	box-sizing:border-box;
+}
+
+.fileItem_ico{
+	width:1.6rem;
+	float: left;
+	position: relative;
+}
+.fileStatus{
+	height: 0.2rem;
+	width: 0.2rem;
+	position: absolute;
+	right: 0.2rem;
+	top: 0;
+	border-radius: 0.15rem;
+	background: #ff8833;
+}
+.fileItem_info{
+	float: left;
+	width: 6.3rem;
+	overflow: hidden;
+}
+.fileItem_title{
+	height: 1rem;
+	line-height: 1rem;
+	overflow: hidden;
+	display: block;
+}
+.fileItem_info_item{
+	color: #959595;
+	display: inline-block;
+	margin-right: 0.3rem;
+}
+.checkbox{
+	float: left;
+	width: 1.5rem;
+	text-align: center;
+	line-height: 1.8rem;
+}

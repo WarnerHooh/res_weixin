@@ -1,0 +1,26 @@
+.Video{
+	width: 10rem;
+	background: #e6e6e6;
+}
+.Video video{
+	width: 10rem;
+}
+.starRate{
+	float: right;
+	margin-top: 0.15rem;
+}
+.contributer{
+	color: #7f7f7f;
+}
+.VideoInfo{
+	min-height: 1rem;
+	padding:0.5rem;
+}
+.VideoInfo h1{
+	font-weight: bold;
+	color: #2e2d2d;
+	line-height: 150%;
+}
+.VideoInfoButtom{
+	margin-top: 0.2rem;
+}

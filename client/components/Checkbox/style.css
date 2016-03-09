@@ -1,0 +1,19 @@
+.CheckboxInput{
+	display: none;
+}
+.Checkbox{
+	width: 0.6rem;
+	height: 0.6rem;
+	line-height: 0.6rem;
+	text-align: center;
+	color:#cbcbcb; 
+	border-radius: 0.1rem;
+	border: #cbcbcb 1px solid;
+	display: inline-block;
+	vertical-align: 0.06rem;
+}
+.Checkbox_checked{
+	background: #0077c0;
+	color:#fff; 
+	border: #0077c0 1px solid;
+}

@@ -1,0 +1,31 @@
+.BottomBar{
+	width: 10rem;
+	height: 1.2rem;
+	background: #272727;
+	position: fixed;
+	bottom: 0;
+	box-shadow: 0 0 0.25rem 0 #000;
+}
+
+.bookmarks{
+	margin-left: 0.2rem;
+	background:url('./images/ico_1.png') 0 0.35rem no-repeat;
+}
+.push{
+	background:url('./images/ico_2.png') left center no-repeat;
+}
+.zan{
+	background:url('./images/ico_3.png') left center no-repeat;
+}
+.comment{
+	background:url('./images/ico_4.png') 0 0.4rem no-repeat;
+}
+.BottomBar>div{
+	line-height: 1.2rem;
+	width: 2.4rem;
+	height: 1.2rem;
+	display: inline-block;
+	text-indent: 0.7rem;
+	background-size: 0.6rem;
+	color: #fff;
+}

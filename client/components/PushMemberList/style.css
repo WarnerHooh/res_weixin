@@ -1,0 +1,38 @@
+.PushMemberList{
+	padding-top:1.2rem;
+}
+.PushMemberList_tabBtn{
+	text-align: left;
+	padding: 0.2rem;
+	border-bottom: #dedede 1px solid;
+}
+.PushMemberList_content{
+	padding: 0.2rem;
+}
+.PushMemberList_name{
+	display: inline-block;
+	margin-left: 0.2rem;
+}
+.PushMemberList_namelist{
+	margin-left: 0.2rem;
+	margin-top: 0.2rem;
+}
+.PushMemberList_namelist li{
+	height: 1.2rem;
+	line-height: 1.2rem;
+}
+.PushMemberList_buttom{
+	position: fixed;
+	bottom: 0;
+	height: 2rem;
+	width: 100%;
+	border-top:  #dedede 1px solid;
+	text-align: center;
+	line-height: 2rem;
+}
+.PushMemberList_checkAll{
+	position: absolute;
+	left: 0;
+	display: block;
+	padding-left: 0.4rem;
+}

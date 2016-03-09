@@ -1,0 +1,19 @@
+.PushToMe{
+	margin-bottom: 0.3rem;
+	background: #fff;
+}
+
+.top{
+	height: 1rem;
+	line-height: 1rem;
+	border-bottom: #dedede 1px solid;
+}
+.name{
+	color: #73a6c9;
+	padding-left: 0.55rem;
+}
+.time{
+	float: right;
+	margin-right: 0.4rem;
+	color: #959595;
+}
